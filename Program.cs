@@ -2,7 +2,7 @@
 // Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-�string[] array1 = new string[7] {"geekbrains", "333", "naruto", "+", "GB", "Gulnaz", "ХочуОценкуОтлично"};
+string[] array1 = new string[7] {"geekbrains", "333", "naruto", "+", "GB", "Gulnaz", "ХочуОценкуОтлично"};
 string[] array2 = new string[array1.Length];
 
 void CreateNewArray(string[] array1, string[] array2)
